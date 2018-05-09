@@ -1,5 +1,5 @@
 FROM alpine:3.7
-MAINTAINER Preetha Appan <preetha@hashicorp.com> (@preetapan)
+MAINTAINER Nicolas Corrarello <nicolas@hashicorp.com> (@nomadic_geek)
 
 # This is the release of Consul to pull in.
 ENV CONSUL_VERSION=1.0.7
